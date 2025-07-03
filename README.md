@@ -1,7 +1,5 @@
 # Project2-Landing-Page
 
-# Landing Page
-
 This is a landing page project built as part of [The Odin Project](https://www.theodinproject.com/)'s Foundations curriculum. The goal of the project is to recreate a simple landing page from a provided design, using HTML and CSS, while practicing Flexbox layout techniques.
 
 ## Project Overview
